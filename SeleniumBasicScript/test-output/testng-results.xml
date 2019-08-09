@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-09T06:47:28Z" name="Default suite" finished-at="2019-08-09T06:47:40Z" duration-ms="12688">
+    <groups>
+    </groups>
+    <test started-at="2019-08-09T06:47:28Z" name="Default test" finished-at="2019-08-09T06:47:40Z" duration-ms="12688">
+      <class name="seleniumBasicCode.LaunchApplication">
+        <test-method signature="launchApplication()[pri:0, instance:seleniumBasicCode.LaunchApplication@5e4c8041]" started-at="2019-08-09T06:47:28Z" name="launchApplication" finished-at="2019-08-09T06:47:40Z" duration-ms="12646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+      </class> <!-- seleniumBasicCode.LaunchApplication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

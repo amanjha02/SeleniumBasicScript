@@ -12,5 +12,9 @@ public class LaunchApplication {
 		driver.get("https://www.google.com/");
 		driver.close();
 	}
+	@Test
+	public void Tes1() {
+		System.out.println("Test1");
+	}
 
 }

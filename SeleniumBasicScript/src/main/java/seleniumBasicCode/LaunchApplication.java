@@ -10,7 +10,7 @@ public class LaunchApplication {
 		System.setProperty("webdriver.chrome.driver","D:\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.com/");
-		driver.close();
+		//driver.close();
 	}
 	@Test
 	public void Tes1() {

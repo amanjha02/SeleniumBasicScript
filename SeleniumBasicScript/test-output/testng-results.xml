@@ -2,16 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-08-09T06:47:28Z" name="Default suite" finished-at="2019-08-09T06:47:40Z" duration-ms="12688">
+  <suite started-at="2019-09-08T13:50:01Z" name="Default suite" finished-at="2019-09-08T13:50:12Z" duration-ms="10980">
     <groups>
     </groups>
-    <test started-at="2019-08-09T06:47:28Z" name="Default test" finished-at="2019-08-09T06:47:40Z" duration-ms="12688">
-      <class name="seleniumBasicCode.LaunchApplication">
-        <test-method signature="launchApplication()[pri:0, instance:seleniumBasicCode.LaunchApplication@5e4c8041]" started-at="2019-08-09T06:47:28Z" name="launchApplication" finished-at="2019-08-09T06:47:40Z" duration-ms="12646" status="PASS">
+    <test started-at="2019-09-08T13:50:01Z" name="Default test" finished-at="2019-09-08T13:50:12Z" duration-ms="10980">
+      <class name="Assignment.Assignment2">
+        <test-method is-config="true" signature="launchBroser()[pri:0, instance:Assignment.Assignment2@27c86f2d]" started-at="2019-09-08T13:49:48Z" name="launchBroser" finished-at="2019-09-08T13:50:01Z" duration-ms="13526" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launchApplication -->
-      </class> <!-- seleniumBasicCode.LaunchApplication -->
+        </test-method> <!-- launchBroser -->
+        <test-method signature="ValidatelandingPage_Title()[pri:1, instance:Assignment.Assignment2@27c86f2d]" started-at="2019-09-08T13:50:01Z" name="ValidatelandingPage_Title" finished-at="2019-09-08T13:50:12Z" duration-ms="10944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatelandingPage_Title -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Assignment.Assignment2@27c86f2d]" started-at="2019-09-08T13:50:12Z" name="closeBrowser" finished-at="2019-09-08T13:50:13Z" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Assignment.Assignment2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
